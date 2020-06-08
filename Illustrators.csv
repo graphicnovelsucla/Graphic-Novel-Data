@@ -1,0 +1,261 @@
+"AuthorID","BookID","RelIllustratorID","Title","Genre","Genre Group","Mentions","PrimPub","OriginalLanguage","Name","FirstName","LastName","GenderID","CountryOfOriginID","CountryOfResidence","DateOfDeath","DateOfBirth","Ethnicity","PenName"
+0,0,153,"7 Miles A Second","Memoir","Graphic Memoir",1,1996-05-01,"English","David Wojnarowicz","David","Wojnarowicz",1,"USA","USA",1992-07-22,1954-09-14,"White",NA
+1,1,152,"A Contract With God","Fiction","Graphic Novel",31,1978-01-01,"English","Will Eisner","Will","Eisner",1,"USA","USA",2005-01-03,2017-03-06,"White",NA
+1,164,148,"A Life Force","Historical Fiction","Graphic Novel",2,1988-05-01,"English","Will Eisner","Will","Eisner",1,"USA","USA",2005-01-03,2017-03-06,"White",NA
+1,180,212,"Last Day in Vietnam","Memoir","Graphic Memoir",1,2000-01-01,"English","Will Eisner","Will","Eisner",1,"USA","USA",2005-01-03,2017-03-06,"White",NA
+1,136,159,"The Name of the Game","Memoir","Graphic Memoir",0,2001-01-01,"English","Will Eisner","Will","Eisner",1,"USA","USA",2005-01-03,2017-03-06,"White",NA
+1,150,157,"To the Heart of the Storm","Historical Fiction","Graphic Novel",1,1991-05-01,"English","Will Eisner","Will","Eisner",1,"USA","USA",2005-01-03,2017-03-06,"White",NA
+6,263,303,"Marvels","Superhero","Graphic Novel",32,1995-01-01,"English","Alex Ross","Alex","Ross",1,"USA","USA",NA,1970-01-22,"White",NA
+10,8,147,"American Born Chinese","Literary Fiction","Graphic Novel",23,2006-09-01,"English","Gene Luen Yang","Gene Luen","Yang",1,"USA","USA",NA,1973-08-09,"Asian",NA
+13,19,136,"Batman: Year One","Superhero","Graphic Novel",8,1987-02-01,"English","David Mazzucchelli","David","Mazzucchelli",1,"USA","USA",NA,1960-09-21,"Unknown",NA
+13,11,144,"Asterios Polyp","Literary Fiction","Graphic Novel",8,2009-07-07,"English","David Mazzucchelli","David","Mazzucchelli",1,"USA","USA",NA,1960-09-21,"Unknown",NA
+13,40,113,"Daredevil: Born Again","Superhero","Graphic Novel",1,1986-02-01,"English","David Mazzucchelli","David","Mazzucchelli",1,"USA","USA",NA,1960-09-21,"Unknown",NA
+13,34,120,"City of Glass: The Graphic Novel","Mystery","Graphic Fantasy",7,1994-01-01,"English","David Mazzucchelli","David","Mazzucchelli",1,"USA","USA",NA,1960-09-21,"Unknown",NA
+14,64,91,"Hellboy Library Edition, Volume 2: The Chained Coffin, The Right Hand of Doom, and Others","Superhero","Graphic Novel",25,2008-10-15,"English","Mike Mignola","Mike","Mignola",1,"USA","USA",NA,1960-09-16,"White",NA
+14,63,92,"Hellboy Library Edition, Volume 1: Seed of Destruction and Wake the Devil","Horror","Graphic Fantasy",25,2008-01-01,"English","Mike Mignola","Mike","Mignola",1,"USA","USA",NA,1960-09-16,"White",NA
+22,50,105,"Elektra Lives Again","Action/Adventure","Graphic Novel",1,1990-03-01,"English","Frank Miller","Frank","Miller",1,"USA","USA",NA,1957-01-27,"White",NA
+22,113,174,"Sin City. The Hard Goodbye","Crime","Graphic Novel",54,1992-01-01,"English","Frank Miller","Frank","Miller",1,"USA","USA",NA,1957-01-27,"White",NA
+22,283,314,"Sin City. Family Values","Crime","Graphic Novel",54,1997-10-01,"English","Frank Miller","Frank","Miller",1,"USA","USA",NA,1957-01-27,"White",NA
+22,16,139,"Batman: The Dark Knight Returns","Superhero","Graphic Novel",3,1986-02-01,"English","Frank Miller","Frank","Miller",1,"USA","USA",NA,1957-01-27,"White",NA
+25,111,49,"Shortcomings","Literary Fiction","Graphic Novel",13,2007-09-20,"English","Adrian Tomine","Adrian","Tomine",1,"USA","USA",NA,1974-05-13,"Asian",NA
+25,195,228,"Killing and Dying","Literary Fiction","Graphic Novel",0,2015-10-01,"English","Adrian Tomine","Adrian","Tomine",1,"USA","USA",NA,1974-05-13,"Asian",NA
+26,137,23,"The Originals","Science Fiction","Graphic Fantasy",14,2004-11-03,"English","Dave Gibbons","Dave","Gibbons",1,"UK","UK",NA,1949-04-14,"White",NA
+26,156,1,"Watchmen","Superhero","Graphic Novel",204,1987-01-01,"English","Dave Gibbons","Dave","Gibbons",1,"UK","UK",NA,1949-04-14,"White",NA
+30,58,98,"Fun Home","Memoir","Graphic Memoir",68,2006-06-08,"English","Alison Bechdel","Alison","Bechdel",0,"USA","USA",NA,1960-09-10,"White",NA
+30,169,201,"Are You My Mother? A Comic Drama","Memoir","Graphic Memoir",4,2012-05-01,"English","Alison Bechdel","Alison","Bechdel",0,"USA","USA",NA,1960-09-10,"White",NA
+33,127,163,"The Complete Maus","Memoir","Graphic Memoir",294,1996-11-01,"English","Art Spiegelman","Art","Spiegelman",1,"Sweden","USA",NA,1948-02-15,"White",NA
+34,134,24,"The Jew of New York","Historical Fiction","Graphic Novel",8,1998-12-07,"English","Ben Katchor","Ben","Katchor",1,"USA","USA",NA,1951-01-01,"White",NA
+36,37,116,"Complete Multiple Warheads TP","Fantasy","Graphic Fantasy",0,2014-01-08,"English","Brandon Graham","Brandon","Graham",1,"USA","USA",NA,1976-01-01,"White",NA
+36,261,301,"King City","Science Fiction","Graphic Fantasy",0,2012-03-07,"English","Brandon Graham","Brandon","Graham",1,"USA","USA",NA,1976-01-01,"White",NA
+37,86,70,"Mom's Cancer","Biography","Non-Fiction",1,2004-01-01,"English","Brian Fies","Brian","Fies",1,NA,NA,NA,NA,"Unknown",NA
+39,55,170,"The Finder Library. Volume 1","Science Fiction","Graphic Fantasy",1,2011-03-01,"English","Carla Speed McNeill","Carla Speed","McNeill",0,"USA","USA",NA,NA,"White",NA
+40,24,131,"Black Hole","Coming of Age","Graphic Novel",15,2005-10-18,"English","Charles Burns","Charles","Burns",1,"USA","USA",NA,1955-09-27,"White",NA
+41,211,244,"The Playboy","Memoir","Graphic Memoir",11,1992-01-01,"English","Chester Brown","Chester","Brown",1,"Canada","Canada",NA,1960-05-16,"White",NA
+41,67,87,"I Never Liked You","Memoir","Graphic Memoir",4,1994-01-01,"English","Chester Brown","Chester","Brown",1,"Canada","Canada",NA,1960-05-16,"White",NA
+41,210,243,"Paying For It","Memoir","Graphic Memoir",4,2011-05-10,"English","Chester Brown","Chester","Brown",1,"Canada","Canada",NA,1960-05-16,"White",NA
+41,178,210,"Ed the Happy Clown","Memoir","Graphic Novel",2,1992-01-01,"English","Chester Brown","Chester","Brown",1,"Canada","Canada",NA,1960-05-16,"White",NA
+41,182,214,"Louis Riel: A Comic-Strip Biography","Biography","Non-Fiction",10,2003-01-01,"English","Chester Brown","Chester","Brown",1,"Canada","Canada",NA,1960-05-16,"White",NA
+41,203,236,"Mary Wept Over the Feet of Jesus","Historical Fiction","Graphic Novel",0,2016-01-01,"English","Chester Brown","Chester","Brown",1,"Canada","Canada",NA,1960-05-16,"White",NA
+42,26,128,"Building Stories","Literary Fiction","Graphic Novel",27,2012-10-01,"English","Chris Ware","Chris","Ware",1,"USA","USA",NA,1967-12-28,"White",NA
+42,73,82,"Jimmy Corrigan: The Smartest Kid on Earth","Literary Fiction","Graphic Novel",60,2000-09-12,"English","Chris Ware","Chris","Ware",1,"USA","USA",NA,1967-12-28,"White",NA
+43,173,205,"Habibi","Romance","Graphic Novel",2,2011-09-20,"English","Craig Thompson","Craig","Thompson",1,"USA","USA",NA,1975-09-21,"White",NA
+43,158,130,"Blankets","Romance","Graphic Novel",9,2003-07-23,"English","Craig Thompson","Craig","Thompson",1,"USA","USA",NA,1975-09-21,"White",NA
+43,31,123,"Carnet De Voyage","Travel Writing","Non-Fiction",5,2004-08-03,"English","Craig Thompson","Craig","Thompson",1,"USA","USA",NA,1975-09-21,"White",NA
+45,214,247,"David Boring","Romance","Graphic Novel",11,2000-09-12,"English","Daniel Clowes","Daniel","Clowes",1,"USA","USA",NA,1961-04-14,"White",NA
+45,213,246,"Ice Haven","Literary Fiction","Graphic Novel",3,2005-06-07,"English","Daniel Clowes","Daniel","Clowes",1,"USA","USA",NA,1961-04-14,"White",NA
+45,212,245,"Like a Velvet Glove Cast in Iron","Mystery","Graphic Fantasy",4,1993-01-17,"English","Daniel Clowes","Daniel","Clowes",1,"USA","USA",NA,1961-04-14,"White",NA
+45,61,95,"Ghost World","Coming of Age","Graphic Novel",18,1997-01-01,"English","Daniel Clowes","Daniel","Clowes",1,"USA","USA",NA,1961-04-14,"White",NA
+46,262,302,"Richard Stark's Parker: The Hunter","Crime","Graphic Novel",0,2009-06-01,"English","Darwyn Cooke","Darwyn","Cooke",1,"Canada","Canada",NA,1962-01-01,"White",NA
+46,44,108,"DC: The New Frontier","Superhero","Graphic Novel",3,2004-12-01,"English","Darwyn Cooke","Darwyn","Cooke",1,"Canada","Canada",NA,1962-01-01,"White",NA
+46,186,218,"Richard Stark's Parker: The Score","Crime","Graphic Novel",1,2012-07-24,"English","Darwyn Cooke","Darwyn","Cooke",1,"Canada","Canada",NA,1962-01-01,"White",NA
+46,105,196,"Richard Stark's Parker: Slayground","Crime","Graphic Novel",0,2013-12-17,"English","Darwyn Cooke","Darwyn","Cooke",1,"Canada","Canada",NA,1962-01-01,"White",NA
+47,27,127,"Cages","Fantasy","Graphic Fantasy",8,1998-01-01,"English","Dave McKean","Dave","McKean",1,"UK","UK",NA,1963-12-29,"White",NA
+47,112,48,"Signal to Noise","Literary Fiction","Graphic Novel",8,1992-10-13,"English","Dave McKean","Dave","McKean",1,"UK","UK",NA,1963-12-29,"White",NA
+47,148,12,"The Tragical Comedy or Comical Tragedy of Mr. Punch","Fantasy","Graphic Fantasy",3,1994-01-01,"English","Dave McKean","Dave","McKean",1,"UK","UK",NA,1963-12-29,"White",NA
+48,141,20,"The Rocketeer","Superhero","Graphic Novel",4,1990-03-01,"English","Dave Stevens","Dave","Stevens",1,"USA","USA",2008-03-11,1955-07-29,"White",NA
+50,53,186,"Fables: 1001 Nights of Snowfall","Fantasy","Graphic Fantasy",24,2006-10-18,"English","Derek Kirk Kim","Derek Kirk","Kim",1,"South Korea","USA",NA,1974-01-01,"Asian",NA
+50,108,52,"Same Difference","Literary Fiction","Graphic Novel",6,2004-01-01,"English","Derek Kirk Kim","Derek Kirk","Kim",1,"South Korea","USA",NA,1974-01-01,"Asian",NA
+53,65,90,"Hicksville","Mystery","Graphic Fantasy",7,1998-10-20,"English","Dylan Horrocks","Dylan","Horrocks",1,"New Zealand","New Zealand",NA,1966-01-01,"White",NA
+55,59,97,"Gaylord Phoenix","Fantasy","Graphic Fantasy",1,2007-11-01,"English","Edie Fake","Edie","Fake",1,"USA","USA",NA,1980-01-01,"White",NA
+56,82,73,"Marbles: Mania, Depression, Michelangelo, and Me: A Graphic Memoir","Memoir","Graphic Memoir",1,2012-11-06,"English","Ellen Forney","Ellen","Forney",0,"USA","USA",NA,1968-03-08,"White",NA
+62,28,126,"Cairo","Mystery","Graphic Fantasy",6,2007-11-01,"English","M. K. Perker","M. K.","Perker",1,"Turkey","USA",NA,1972-11-02,"White",NA
+63,43,109,"Daytripper","Literary Fiction","Graphic Novel",2,2010-02-01,"English","Gabriel Ba","Gabriel","Ba",1,"Brazil","Brazil",NA,1976-06-05,"Hispanic Origin",NA
+65,152,8,"Troubled Souls","Coming of Age","Graphic Novel",0,1990-02-01,"English","John McCrea","John","McCrea",1,"UK","UK",NA,1966-01-01,"White",NA
+69,166,169,"Love and Rockets, Vol. 12: Poison River","Coming of Age","Graphic Novel",50,1994-01-01,"English","Gilbert Hernandez","Gilbert","Hernandez",1,"USA","USA",NA,1957-02-01,"Other Race",NA
+69,96,62,"Palomar: The Heartbreak Soup Stories, A Love and Rockets Book","Literary Fiction","Graphic Novel",10,2003-07-01,"English","Gilbert Hernandez","Gilbert","Hernandez",1,"USA","USA",NA,1957-02-01,"Other Race",NA
+72,115,45,"Stuck Rubber Baby","Historical Fiction","Graphic Novel",7,1995-01-01,"English","Howard Cruse","Howard","Cruse",1,"USA","USA",NA,1944-05-02,"White",NA
+73,22,133,"Berlin, Vol. 2: City of Smoke","Historical Non-Fiction","Non-Fiction",0,2008-09-01,"English","Jason Lutes","Jason","Lutes",1,"USA","USA",NA,1967-12-07,"White",NA
+73,23,132,"Berlin, Vol.1: City of Stones","Historical Non-Fiction","Non-Fiction",2,2000-06-01,"English","Jason Lutes","Jason","Lutes",1,"USA","USA",NA,1967-12-07,"White",NA
+73,162,180,"Jar of Fools","Literary Fiction","Graphic Novel",1,1994-01-01,"English","Jason Lutes","Jason","Lutes",1,"USA","USA",NA,1967-12-07,"White",NA
+75,126,117,"Collected Essex County","Literary Fiction","Graphic Novel",5,2009-06-15,"English","Jeff Lemire","Jeff","Lemire",1,"Canada","Canada",NA,1976-03-21,"White",NA
+76,266,306,"Bone: The Complete Cartoon Epic in One Volume","Fantasy","Graphic Fantasy",14,2004-01-01,"English","Jeff Smith","Jeff","Smith",1,"USA","USA",NA,1960-02-27,"White",NA
+76,102,56,"RASL","Science Fiction","Graphic Fantasy",1,2013-09-17,"English","Jeff Smith","Jeff","Smith",1,"USA","USA",NA,1960-02-27,"White",NA
+79,54,101,"Fax from Sarajevo","Memoir","Graphic Memoir",3,1996-11-01,"English","Joe Kubert","Joe","Kubert",1,"Poland","USA",2012-08-12,2026-09-18,"White",NA
+80,106,53,"Safe Area Gorau017ede: The War in Eastern Bosnia, 1992-1995","Graphic Journalism","Non-Fiction",2,2000-01-01,"English","Joe Sacco","Joe","Sacco",1,"Malta","USA",NA,1960-10-02,"White",NA
+80,176,208,"Bumf Vol. 1: I Buggered The Kaiser","Satire","Humor",0,2014-07-15,"English","Joe Sacco","Joe","Sacco",1,"Malta","USA",NA,1960-10-02,"White",NA
+80,95,63,"Palestine","Graphic Journalism","Non-Fiction",33,1996-01-01,"English","Joe Sacco","Joe","Sacco",1,"Malta","USA",NA,1960-10-02,"White",NA
+80,175,207,"Footnotes in Gaza","Graphic Journalism","Non-Fiction",17,2009-01-01,"English","Joe Sacco","Joe","Sacco",1,"Malta","USA",NA,1960-10-02,"White",NA
+82,99,59,"Pedro and Me: Friendship, Loss, and What I Learned","Memoir","Graphic Memoir",1,2000-01-01,"English","Judd Winick","Judd","Winick",1,"USA","USA",NA,1970-02-12,"White",NA
+85,124,30,"The Boulevard of Broken Dreams","Historical Fiction","Graphic Novel",3,2002-09-24,"English","Kim Deitch","Kim","Deitch",1,"USA",NA,NA,1944-01-01,"White",NA
+86,163,5,"Why I Hate Saturn","Literary Fiction","Graphic Novel",4,1990-01-01,"English","Kyle Baker","Kyle","Baker",1,"USA","USA",NA,1965-01-01,"African American",NA
+86,89,68,"Nat Turner","Biography","Non-Fiction",11,2006-06-15,"English","Kyle Baker","Kyle","Baker",1,"USA","USA",NA,1965-01-01,"African American",NA
+86,129,29,"The Cowboy Wally Show","Satire","Humor",2,1996-01-01,"English","Kyle Baker","Kyle","Baker",1,"USA","USA",NA,1965-01-01,"African American",NA
+86,187,220,"The Fifth Beatle: The Brian Epstein Story","Biography","Non-Fiction",1,2013-11-01,"English","Kyle Baker","Kyle","Baker",1,"USA","USA",NA,1965-01-01,"African American",NA
+86,179,211,"You Are Here","Humor","Humor",1,1998-11-01,"English","Kyle Baker","Kyle","Baker",1,"USA","USA",NA,1965-01-01,"African American",NA
+87,88,168,"Narcissa","Coming of Age","Graphic Novel",0,2002-09-17,"English","Lance Tooks","Lance","Tooks",1,"USA","USA",NA,NA,"African American",NA
+88,153,156,"Unterzakhn","Historical Fiction","Graphic Novel",6,2012-04-03,"English","Leela Corman","Leela","Corman",0,NA,"USA",NA,NA,"Unknown",NA
+89,42,111,"Darkroom: A Memoir in Black and White","Memoir","Graphic Memoir",0,2012-02-16,"English","Lila Quintero Weaver","Lila Quintero","Weaver",0,"Argentina","USA",NA,1955-01-01,"Hispanic Origin",NA
+90,32,122,"Castle Waiting Vol. 2: The Definitive Edition","Fairy Tale","Graphic Fantasy",2,2013-05-17,"English","Linda Medley","Linda","Medley",0,"USA","USA",NA,1964-05-17,"White",NA
+95,131,160,"The Greatest of Marlys","Coming of Age","Graphic Novel",0,2000-01-07,"English","Lynda Barry","Lynda","Barry",0,"USA","USA",NA,1956-01-02,"Other Race",NA
+95,91,167,"One Hundred Demons","Memoir","Graphic Memoir",13,2002-08-13,"English","Lynda Barry","Lynda","Barry",0,"USA","USA",NA,1956-01-02,"Other Race",NA
+96,114,46,"Skim","Coming of Age","Graphic Novel",6,2008-01-01,"English","Mariko Tamaki","Mariko","Tamaki",0,"Canada","Canada",NA,NA,"Other Race",NA
+97,30,124,"Cancer Vixen: A True Story","Memoir","Graphic Memoir",3,2006-09-26,"English","Marisa Acocella Marchetto","Marisa Acocella","Marchetto",0,"USA","USA",NA,1962-01-01,"White",NA
+99,81,74,"Mail Order Bride","Literary Fiction","Graphic Novel",2,2001-01-01,"English","Mark Kalesniko","Mark","Kalesniko",1,"Canada","USA",NA,NA,"White",NA
+103,103,55,"Red: A Haida Manga","Action/Adventure","Graphic Novel",1,2009-01-01,"English","Michael Nicoll Yahgulanaas","Michael Nicoll","Yahgulanaas",1,"Canada","Canada",NA,1954-01-01,"Native American",NA
+104,97,61,"Paul Has a Summer Job","Coming of Age","Graphic Novel",0,2002-08-01,"English","Michel Rabagliati","Michel","Rabagliati",1,"Canada","Canada",NA,1961-01-01,"White",NA
+104,98,60,"Paul Joins the Scouts","Coming of Age","Graphic Novel",0,2011-11-10,"English","Michel Rabagliati","Michel","Rabagliati",1,"Canada","Canada",NA,1961-01-01,"White",NA
+107,83,72,"March: Book One","Biography","Non-Fiction",1,2013-08-13,"English","Nate Powell","Nate","Powell",1,"USA","USA",NA,1978-01-01,"White",NA
+107,118,166,"Swallow Me Whole","Literary Fiction","Graphic Novel",1,2008-07-08,"English","Nate Powell","Nate","Powell",1,"USA","USA",NA,1978-01-01,"White",NA
+107,84,71,"March: Book Two","Biography","Non-Fiction",1,2015-01-20,"English","Nate Powell","Nate","Powell",1,"USA","USA",NA,1978-01-01,"White",NA
+110,53,185,"Fables: 1001 Nights of Snowfall","Fantasy","Graphic Fantasy",24,2006-10-18,"English","John Bolton","John","Bolton",1,"UK","UK",NA,1951-05-23,"White",NA
+110,122,31,"The Books of Magic","Fantasy","Graphic Fantasy",4,1993-04-14,"English","John Bolton","John","Bolton",1,"UK","UK",NA,1951-05-23,"White",NA
+111,122,32,"The Books of Magic","Fantasy","Graphic Fantasy",4,1993-04-14,"English","Scott Hampton","Scott","Hampton",1,"USA","USA",NA,1959-04-10,"White",NA
+112,122,33,"The Books of Magic","Fantasy","Graphic Fantasy",4,1993-04-14,"English","Charles Vess","Charles","Vess",1,"USA","USA",NA,1951-06-10,"White",NA
+112,53,183,"Fables: 1001 Nights of Snowfall","Fantasy","Graphic Fantasy",24,2006-10-18,"English","Charles Vess","Charles","Vess",1,"USA","USA",NA,1951-06-10,"White",NA
+116,87,69,"Mother, Come Home","Literary Fiction","Graphic Novel",3,2003-01-01,"English","Paul Hornschemeier","Paul","Hornschemeier",1,"USA","USA",NA,1977-10-27,"White",NA
+117,60,96,"Gemma Bovery","Literary Fiction","Graphic Novel",12,1999-01-01,"English","Posy Simmonds","Posy","Simmonds",0,"UK","UK",NA,1945-08-09,"White",NA
+119,123,164,"The Borden Tragedy: A Memoir of the Infamous Double Murder at Fall River, Mass., 1892 (A Treasury of Victorian Murder)","Crime","Graphic Novel",1,1997-09-01,"English","Rick Geary","Rick","Geary",1,"USA","USA",NA,1946-02-25,"White",NA
+120,121,37,"The Book of Genesis","Educational","Non-Fiction",1,2009-10-19,"English","Robert Crumb","Robert","Crumb",1,"USA","USA",NA,1943-08-30,"White",NA
+120,9,198,"American Splendor","Memoir","Graphic Memoir",27,1986-01-01,"English","Robert Crumb","Robert","Crumb",1,"USA","USA",NA,1943-08-30,"White",NA
+121,29,125,"Can't We Talk about Something More Pleasant?: A Memoir","Memoir","Graphic Memoir",0,2014-05-06,"English","Roz Chast","Roz","Chast",0,"USA","USA",NA,1954-11-26,"White",NA
+122,139,158,"The Property","Literary Fiction","Graphic Novel",14,2013-01-01,"English","Rutu Modan","Rutu","Modan",0,"Israel","Israel",NA,1966-01-01,"White",NA
+122,52,102,"Exit Wounds","Coming of Age","Graphic Novel",5,2007-05-01,"English","Rutu Modan","Rutu","Modan",0,"Israel","Israel",NA,1966-01-01,"White",NA
+123,66,89,"How to Understand Israel in 60 Days or Less","Memoir","Graphic Memoir",2,2010-11-03,"English","Sarah Glidden","Sarah","Glidden",0,"USA","USA",NA,1980-06-16,"White",NA
+124,38,115,"Corridor: A Graphic Novel","Literary Fiction","Graphic Novel",4,2004-01-01,"English","Sarnath Banerjee","Sarnath","Banerjee",1,"India","India",NA,1972-01-01,"Asian",NA
+124,120,38,"The Barn Owl's Wondrous Capers","Historical Fiction","Graphic Novel",0,2007-01-09,"English","Sarnath Banerjee","Sarnath","Banerjee",1,"India","India",NA,1972-01-01,"Asian",NA
+125,71,85,"It's a Good Life, If You Don't Weaken","Memoir","Graphic Memoir",1,1996-09-01,"English","Gregory Gallant","Gregory","Gallant",1,NA,"USA",NA,1962-09-16,"White","Seth"
+125,215,248,"Wimbledon Green","Crime","Graphic Novel",2,2005-12-13,"English","Gregory Gallant","Gregory","Gallant",1,NA,"USA",NA,1962-09-16,"White","Seth"
+125,216,249,"George Sprott, 1894-1975","Literary Fiction","Graphic Novel",2,2009-05-26,"English","Gregory Gallant","Gregory","Gallant",1,NA,"USA",NA,1962-09-16,"White","Seth"
+126,119,39,"The Arrival","Literary Fiction","Graphic Novel",27,2006-01-01,"English","Shaun Tan","Shaun","Tan",1,"Australia","Australia",NA,1974-01-01,"White",NA
+130,147,13,"The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer","Historical Fiction","Graphic Novel",1,2015-04-21,"English","Sydney Padua","Sydney","Padua",0,NA,NA,NA,NA,"Unknown",NA
+135,161,83,"Jaka's Story","Fantasy","Graphic Fantasy",0,1990-10-01,"English","David Victor Sim","David Victor","Sim",1,"Canada","Canada",NA,1952-11-30,"White",NA
+137,257,296,"Kill My Mother","Crime","Graphic Novel",0,2014-08-25,"English","Jules Ralph Feiffer","Jules Ralph","Feiffer",1,"USA","USA",NA,2029-01-26,"White",NA
+137,256,295,"Cousin Joseph: A Graphic Novel","Crime","Graphic Novel",0,2016-07-26,"English","Jules Ralph Feiffer","Jules Ralph","Feiffer",1,"USA","USA",NA,2029-01-26,"White",NA
+137,167,40,"Tantrum!","Comedy","Humor",4,1979-01-01,"English","Jules Ralph Feiffer","Jules Ralph","Feiffer",1,"USA","USA",NA,2029-01-26,"White",NA
+138,168,165,"The Ballad of Doctor Richardson","Romance","Graphic Novel",1,1994-01-01,"English","Paul Pope","Paul","Pope",1,"USA","USA",NA,1970-09-26,"White",NA
+139,155,6,"V for Vendetta","Science Fiction","Graphic Fantasy",60,1990-01-01,"English","David Lloyd","David","Lloyd",1,"UK","UK",NA,1950-05-05,"White",NA
+140,154,7,"Unwritten Vol. 1: Tommy Taylor and the Bogus Identity","Mystery","Graphic Fantasy",12,2010-01-12,"English","Peter Gross","Peter","Gross",1,"USA","USA",NA,1958-01-01,"White",NA
+141,151,9,"Top 10: The Forty-Niners","Superhero","Graphic Novel",5,2005-01-01,"English","Gene Ha","Gene","Ha",1,"USA","USA",NA,1969-08-19,"Asian",NA
+142,151,10,"Top 10: The Forty-Niners","Superhero","Graphic Novel",5,2005-01-01,"English","Alexander Zander Cannon","Alexander Zander","Cannon",1,"USA","USA",NA,1972-11-01,"White",NA
+143,149,11,"The Wicked + The Divine, Vol. 1: The Faust Act","Superhero","Graphic Novel",0,2014-11-12,"English","Jamie McKelvie","Jamie","McKelvie",1,"UK","UK",NA,NA,"White",NA
+144,145,14,"The Tale of One Bad Rat","Literary Fiction","Graphic Novel",3,1995-10-01,"English","Ellie DeVille","Ellie","DeVille",0,NA,NA,NA,NA,"Unknown",NA
+145,132,28,"The Hedge Knight: The Graphic Novel (A Game of Thrones)","Fantasy","Graphic Fantasy",0,2004-06-01,"English","Mike S. Miller","Mike S.","Miller",1,"USA","USA",NA,1971-01-01,"Unknown",NA
+145,249,284,"New Spring","Fantasy","Graphic Fantasy",0,2011-01-01,"English","Mike S. Miller","Mike S.","Miller",1,"USA","USA",NA,1971-01-01,"Unknown",NA
+145,144,15,"The Sworn Sword: The Graphic Novel (A Game of Thrones)","Fantasy","Graphic Fantasy",0,2008-07-02,"English","Mike S. Miller","Mike S.","Miller",1,"USA","USA",NA,1971-01-01,"Unknown",NA
+146,142,16,"The Sandman. Vol. 1: Preludes & Nocturnes","Fantasy","Graphic Fantasy",96,1991-01-01,"English","Sam Keith","Sam","Keith",1,"USA","USA",NA,1963-01-11,"White",NA
+147,143,18,"The Sandman. Vol. 2: The Doll's House","Fantasy","Graphic Fantasy",96,1990-01-01,"English","Mike Dringenberg","Mike","Dringenberg",1,"France","USA",NA,1965-01-01,"White",NA
+147,142,17,"The Sandman. Vol. 1: Preludes & Nocturnes","Fantasy","Graphic Fantasy",96,1991-01-01,"English","Mike Dringenberg","Mike","Dringenberg",1,"France","USA",NA,1965-01-01,"White",NA
+148,143,19,"The Sandman. Vol. 2: The Doll's House","Fantasy","Graphic Fantasy",96,1990-01-01,"English","Malcolm Jones III","Malcolm","Jones III",1,"USA","USA",1996-01-01,1959-01-01,"African American",NA
+149,140,21,"The Puma Blues","Science Fiction","Graphic Fantasy",2,2015-09-16,"English","Michael Zulli","Michael","Zulli",1,"USA","USA",NA,NA,"White",NA
+150,69,25,"The Infinity Gauntlet","Science Fiction","Graphic Fantasy",1,1991-01-01,"English","George Perez","George","Perez",1,"USA","USA",NA,1954-06-09,"White",NA
+151,69,26,"The Infinity Gauntlet","Science Fiction","Graphic Fantasy",1,1991-01-01,"English","Ronald Ron Lim","Ronald Ron","Lim",1,"USA","USA",NA,1965-01-01,"Asian",NA
+154,122,36,"The Books of Magic","Fantasy","Graphic Fantasy",4,1993-04-14,"English","Jason Temujin Minor","Jason Temujin","Minor",1,"USA","USA",NA,1971-09-01,"White",NA
+155,122,35,"The Books of Magic","Fantasy","Graphic Fantasy",4,1993-04-14,"English","Paul Johnson","Paul","Johnson",1,"UK","UK",NA,1958-10-13,"White",NA
+156,4,41,"Tale of Sand","Literary Fiction","Graphic Novel",0,2011-12-14,"English","Ramon K. Perez","Ramon K.","Perez",1,"Canada","Canada",NA,1973-06-04,"White",NA
+157,4,42,"Tale of Sand","Literary Fiction","Graphic Novel",0,2011-12-14,"English","Ian Herring","Ian","Herring",1,"Canada","Canada",NA,NA,"White",NA
+158,117,43,"Superman: Red Son","Superhero","Graphic Novel",1,2003-01-01,"English","Dave Johnson","Dave","Johnson",1,"USA","USA",NA,1966-03-04,"White",NA
+159,117,44,"Superman: Red Son","Superhero","Graphic Novel",1,2003-01-01,"English","Kilian Plunkett","Kilian","Plunkett",1,"UK","USA",NA,NA,"White",NA
+160,114,47,"Skim","Coming of Age","Graphic Novel",6,2008-01-01,"English","Jillian Tamaki","Jillian","Tamaki",0,"Canada","USA",NA,NA,"Other Race",NA
+160,208,240,"This One Summer","Coming of Age","Graphic Novel",0,2014-05-06,"English","Jillian Tamaki","Jillian","Tamaki",0,"Canada","USA",NA,NA,"Other Race",NA
+161,110,50,"Sex Criminals, Vol. 2: Two Worlds, One Cop","Comedy","Humor",0,2015-02-01,"English","Chip Zdarsky","Chip","Zdarsky",1,"Canada","Canada",NA,1975-12-21,"White",NA
+161,109,51,"Sex Criminals, Vol. 1: One Weird Trick","Comedy","Humor",0,2014-04-16,"English","Chip Zdarsky","Chip","Zdarsky",1,"Canada","Canada",NA,1975-12-21,"White",NA
+164,94,64,"Our Cancer Year","Memoir","Graphic Memoir",3,1994-10-13,"English","Frank Stack","Frank","Stack",1,"USA","USA",NA,1937-01-01,"White",NA
+164,9,199,"American Splendor","Memoir","Graphic Memoir",27,1986-01-01,"English","Frank Stack","Frank","Stack",1,"USA","USA",NA,1937-01-01,"White",NA
+166,79,76,"Lost Girls","Adult","Miscellaneous",32,2006-08-26,"English","Melinda Gebbie","Melinda","Gebbie",0,"USA","USA",NA,NA,"White",NA
+168,77,78,"Logicomix: An Epic Search for Truth","Educational","Non-Fiction",5,2009-09-29,"English","Alecos Papadatos","Alecos","Papadatos",1,"Greece","Greece",NA,1959-05-18,"White",NA
+169,165,80,"Kings in Disguise","Historical Fiction","Graphic Novel",2,1990-03-01,"English","Dan Burr","Dan","Burr",1,"USA","USA",NA,1966-08-04,"White",NA
+171,159,81,"Justice League: A New Beginning","Superhero","Graphic Novel",31,1987-11-01,"English","Kevin Maguire","Kevin","Maguire",1,"USA","USA",NA,1960-09-09,"White",NA
+172,161,84,"Jaka's Story","Fantasy","Graphic Fantasy",0,1990-10-01,"English","Gerhard Gerhard","Gerhard","Gerhard",1,"Canada","Canada",NA,1959-03-14,"White",NA
+173,70,86,"It's A Bird","Memoir","Graphic Memoir",7,2004-05-01,"English","Teddy Kristiansen","Teddy","Kristiansen",1,"Denmark","Denmark",NA,1964-01-01,"White",NA
+174,68,88,"Icon. Vol.1: A Hero's Welcome","Superhero","Graphic Novel",1,1997-01-01,"English","Mark D. Bright","Mark D.","Bright",1,"USA","USA",NA,1955-01-01,"White",NA
+175,62,93,"Hawkeye, Vol. 1: My Life as a Weapon","Superhero","Graphic Novel",6,2013-03-13,"English","Alan Davis","Alan","Davis",1,"UK","UK",NA,1956-06-18,"White",NA
+176,62,94,"Hawkeye, Vol. 1: My Life as a Weapon","Superhero","Graphic Novel",6,2013-03-13,"English","Javier Pulido","Javier","Pulido",1,"Spain","Spain",NA,1970-01-01,"White",NA
+177,57,99,"From Hell","Crime","Graphic Novel",85,1999-01-01,"English","Eddie Campbell","Eddie","Campbell",1,"UK","Australia",NA,1955-08-10,"White",NA
+178,45,107,"Deadpool Kills the Marvel Universe","Horror","Graphic Fantasy",0,2011-08-01,"English","Dalibor Talajic","Dalibor","Talajic",1,"Croatia","Croatia",NA,NA,"White",NA
+179,43,110,"Daytripper","Literary Fiction","Graphic Novel",2,2010-02-01,"English","Fabio Moon","Fabio","Moon",1,"Brazil","Brazil",NA,1976-06-05,"Hispanic Origin",NA
+180,41,112,"Daredevil: The Man Without Fear","Superhero","Graphic Novel",2,1993-10-01,"English","John Romita Jr.","John","Romita Jr.",1,"USA","USA",NA,1956-08-17,"White",NA
+181,36,118,"Civil War","Superhero","Graphic Novel",37,2007-04-01,"English","Steve McNiven","Steve","McNiven",1,"Canada","Canada",NA,1967-01-01,"White",NA
+183,21,134,"Beowulf","Fantasy","Graphic Fantasy",11,2007-10-01,"English","Christopher Edwin Steininger","Christopher Edwin","Steininger",1,"Canada","Germany",NA,NA,"White",NA
+184,268,308,"Wonder Woman: The True Amazon","Superhero","Graphic Novel",108,2016-10-04,"English","Jill Thompson","Jill","Thompson",0,"USA","USA",NA,1966-11-20,"White",NA
+184,53,188,"Fables: 1001 Nights of Snowfall","Fantasy","Graphic Fantasy",24,2006-10-18,"English","Jill Thompson","Jill","Thompson",0,"USA","USA",NA,1966-11-20,"White",NA
+184,20,135,"Beasts of Burden: Animal Rites","Adventure","Graphic Novel",0,2010-06-30,"English","Jill Thompson","Jill","Thompson",0,"USA","USA",NA,1966-11-20,"White",NA
+185,18,137,"Batman: The Long Halloween","Superhero","Graphic Novel",3,1997-01-01,"English","Tim Sale","Tim","Sale",1,"USA","USA",NA,1956-05-01,"White",NA
+185,15,140,"Batman: Dark Victory","Superhero","Graphic Novel",1,1999-01-01,"English","Tim Sale","Tim","Sale",1,"USA","USA",NA,1956-05-01,"White",NA
+186,53,184,"Fables: 1001 Nights of Snowfall","Fantasy","Graphic Fantasy",24,2006-10-18,"English","Brian Bolland","Brian","Bolland",1,"UK","UK",NA,1951-03-26,"White",NA
+187,3,145,"A Small Killing","Literary Fiction","Graphic Novel",5,1991-10-03,"English","Oscar Zarate","Oscar","Zarate",1,"Argentina","Argentina",NA,1942-06-09,"Hispanic Origin",NA
+188,10,146,"American Widow","Memoir","Graphic Memoir",8,2008-09-01,"English","Sungyoon Choi","Sungyoon","Choi",0,NA,"USA",NA,NA,"Asian",NA
+189,6,149,"Age of Ultron","Superhero","Graphic Novel",0,2013-01-01,"English","Bryan Hitch","Bryan","Hitch",1,"UK","UK",NA,1970-03-22,"White",NA
+190,6,150,"Age of Ultron","Superhero","Graphic Novel",0,2013-01-01,"English","Brandon Peterson","Brandon","Peterson",1,"USA","USA",NA,1969-11-14,"White",NA
+191,6,151,"Age of Ultron","Superhero","Graphic Novel",0,2013-01-01,"English","Carlos Pacheco","Carlos","Pacheco",1,"Spain","Spain",NA,1961-11-14,"White",NA
+192,5,2,"Absolute Justice","Superhero","Graphic Novel",0,2008-01-01,"English","Doug Braithwaite","Doug","Braithwaite",1,"UK","UK",NA,NA,"Black",NA
+193,0,154,"7 Miles A Second","Memoir","Graphic Memoir",1,1996-05-01,"English","Marguerite Van Cook","Marguerite","Van Cook",0,"UK","USA",NA,NA,"White",NA
+194,0,155,"7 Miles A Second","Memoir","Graphic Memoir",1,1996-05-01,"English","James Romberger","James","Romberger",1,"USA","USA",NA,1958-01-01,"White",NA
+197,107,175,"Saga of the Swamp Thing, Book 1","Superhero","Graphic Novel",4,1983-01-01,"English","Tom Yeates","Tom","Yeates",1,"USA","USA",NA,1955-01-19,"White",NA
+198,107,176,"Saga of the Swamp Thing, Book 1","Superhero","Graphic Novel",4,1983-01-01,"English","Richard Rick Veitch","Richard Rick","Veitch",1,"USA","USA",NA,1951-05-07,"White",NA
+199,107,177,"Saga of the Swamp Thing, Book 1","Superhero","Graphic Novel",4,1983-01-01,"English","Dan Day","Dan","Day",1,NA,NA,NA,NA,"Unknown",NA
+200,107,178,"Saga of the Swamp Thing, Book 1","Superhero","Graphic Novel",4,1983-01-01,"English","Stephen R. Bissette","Stephen R.","Bissette",1,"USA","USA",NA,1955-03-14,"White",NA
+201,53,187,"Fables: 1001 Nights of Snowfall","Fantasy","Graphic Fantasy",24,2006-10-18,"English","Mark Buckingham","Mark","Buckingham",1,"UK","Spain",NA,1966-05-23,"White",NA
+201,85,179,"Miracleman: The Golden Age","Superhero","Graphic Novel",17,1993-01-01,"English","Mark Buckingham","Mark","Buckingham",1,"UK","Spain",NA,1966-05-23,"White",NA
+202,53,189,"Fables: 1001 Nights of Snowfall","Fantasy","Graphic Fantasy",24,2006-10-18,"English","James Jean","James","Jean",1,"Taiwan","USA",NA,1979-01-01,"Asian",NA
+203,53,190,"Fables: 1001 Nights of Snowfall","Fantasy","Graphic Fantasy",24,2006-10-18,"English","Michael William Kaluta","Michael William","Kaluta",1,"Guatemala","USA",NA,1947-08-25,"White",NA
+204,53,191,"Fables: 1001 Nights of Snowfall","Fantasy","Graphic Fantasy",24,2006-10-18,"English","Tara McPherson","Tara","McPherson",0,"USA","USA",NA,1976-04-07,"White",NA
+205,53,192,"Fables: 1001 Nights of Snowfall","Fantasy","Graphic Fantasy",24,2006-10-18,"English","Esao Andrews","Esao","Andrews",1,"USA","USA",NA,1978-05-22,"Unknown",NA
+206,53,193,"Fables: 1001 Nights of Snowfall","Fantasy","Graphic Fantasy",24,2006-10-18,"English","Mark Wheatley","Mark","Wheatley",1,"USA","USA",NA,1954-05-27,"White",NA
+207,259,299,"Ruins","Literary Fiction","Graphic Novel",8,2015-10-06,"English","Peter Kuper","Peter","Kuper",1,"USA","USA",NA,1958-09-22,"White",NA
+207,135,194,"The Metamorphosis","Literary Fiction","Graphic Novel",20,2003-08-03,"English","Peter Kuper","Peter","Kuper",1,"USA","USA",NA,1958-09-22,"White",NA
+208,9,200,"American Splendor","Memoir","Graphic Memoir",27,1986-01-01,"English","Gary Dumm","Gary","Dumm",1,"USA","USA",NA,1949-12-07,"White",NA
+209,170,204,"The Diary of a Teenage Girl","Memoir","Graphic Memoir",4,2002-01-01,"English","Phoebe Louise Adams Gloeckner","Phoebe Louise Adams","Gloeckner",0,"USA","USA",NA,1960-12-22,"White",NA
+210,171,202,"Stitches. A Memoir","Memoir","Graphic Memoir",11,2009-09-08,"English","David Small","David","Small",1,"USA","USA",NA,1945-02-12,"White",NA
+211,172,203,"Psychiatric Tales","Educational","Non-Fiction",1,2010-01-01,"English","Darryl Cunningham","Darryl","Cunningham",1,"UK","UK",NA,1960-01-01,"White",NA
+212,174,206,"Harvey Pekar's Cleveland","Memoir","Graphic Memoir",8,2012-02-01,"English","Joseph Remnant","Joseph","Remnant",1,"USA","USA",NA,NA,"White",NA
+213,177,209,"Munnu: A Boy From Kashmir","Coming of Age","Graphic Novel",1,2015-06-18,"English","Malik Sajad","Malik","Sajad",1,"India","India",NA,1987-01-01,"Asian",NA
+214,181,213,"The Golem's Mighty Swing","Sports","Miscellaneous",1,2001-07-01,"English","James Sturm","James","Sturm",1,"USA","USA",NA,1965-01-01,"White",NA
+214,206,238,"Market Day","Historical Fiction","Graphic Novel",2,2010-03-30,"English","James Sturm","James","Sturm",1,"USA","USA",NA,1965-01-01,"White",NA
+215,185,217,"Too Cool To Be Forgotten","Fantasy","Graphic Fantasy",0,2008-08-04,"English","Alex Robinson","Alex","Robinson",1,"USA","USA",NA,1969-08-08,"White",NA
+215,183,215,"Tricked","Literary Fiction","Graphic Novel",1,2005-08-23,"English","Alex Robinson","Alex","Robinson",1,"USA","USA",NA,1969-08-08,"White",NA
+217,184,216,"Pride of Baghdad","Fantasy","Graphic Fantasy",4,2006-09-13,"English","Niko Henrichon","Niko","Henrichon",1,"Canada",NA,NA,NA,"White",NA
+219,187,219,"The Fifth Beatle: The Brian Epstein Story","Biography","Non-Fiction",1,2013-11-01,"English","Andrew Cornel Robinson","Andrew Cornel","Robinson",1,"USA","USA",NA,1968-01-01,"White",NA
+222,194,222,"I Kill Giants","Coming of Age","Graphic Novel",0,2009-09-01,"English","J. M. Ken Niimura","J. M. Ken","Niimura",1,"Spain","Spain",NA,1981-10-19,"Hispanic Origin",NA
+223,193,223,"The Sculptor","Fantasy","Graphic Fantasy",2,2015-02-03,"English","Scott McCloud","Scott","McCloud",1,"USA","USA",NA,1960-06-10,"White",NA
+223,267,307,"Understanding Comics: The Invisible Art","Educational","Non-Fiction",26,1993-01-01,"English","Scott McCloud","Scott","McCloud",1,"USA","USA",NA,1960-06-10,"White",NA
+224,189,224,"The Motherless Oven","Fantasy","Graphic Fantasy",0,2014-10-21,"English","Rob Davis","Rob","Davis",1,"UK","UK",NA,NA,"White",NA
+225,190,225,"The Encyclopedia of Early Earth","Fantasy","Graphic Fantasy",0,2013-10-03,"English","Isabel Greenberg","Isabel","Greenberg",0,"UK","UK",NA,NA,"White",NA
+226,191,226,"The Nao of Brown","Coming of Age","Graphic Novel",1,2012-10-01,"English","Glyn Dillon","Glyn","Dillon",1,"UK","UK",NA,1971-01-01,"White",NA
+227,192,227,"Nelson","Historical Fiction","Graphic Novel",22,2011-01-01,"English","Woodrow Phoenix","Woodrow","Phoenix",1,"UK","UK",NA,NA,"Black",NA
+230,197,230,"Beverly","Satire","Humor",0,2016-01-26,"English","Nick Drnaso","Nick","Drnaso",1,"USA","USA",NA,1989-01-01,"White",NA
+231,198,232,"Here","Historical Fiction","Graphic Novel",4,2014-12-04,"English","Richard McGuire","Richard","McGuire",1,"USA","UK",NA,1957-01-01,"White",NA
+234,201,234,"Long Red Hair","Memoir","Graphic Memoir",0,2015-09-21,"English","Meags Fitzgerald","Meags","Fitzgerald",0,"Canada","Canada",NA,NA,"White",NA
+235,202,235,"Nod Away","Science Fiction","Graphic Fantasy",0,2016-02-15,"English","Joshua W. Cotter","Joshua W.","Cotter",1,NA,NA,NA,NA,"White",NA
+236,204,237,"Sacred Heart","Coming of Age","Graphic Novel",0,2015-07-01,"English","Liz Suburbia","Liz","Suburbia",0,"USA","USA",NA,NA,"White",NA
+237,209,239,"The Oven","Science Fiction","Graphic Fantasy",1,2015-03-21,"English","Sophie Goldstein","Sophie","Goldstein",0,"USA","USA",NA,NA,"White",NA
+238,207,241,"Big Questions","Fairy Tale","Graphic Fantasy",1,2011-04-12,"English","Anders Nilsen","Anders","Nilsen",1,"USA","USA",NA,1973-01-01,"White",NA
+239,217,250,"Daddy's Girl","Coming of Age","Graphic Novel",1,1996-06-01,"English","Debbie Drechsler","Debbie","Drechsler",0,"USA","USA",NA,1953-01-01,"White",NA
+241,219,252,"A History of Violence","Crime","Graphic Novel",7,1997-01-01,"English","Vincent Locke","Vincent","Locke",1,"USA","USA",NA,NA,"White",NA
+242,220,253,"Stray Toasters","Crime","Graphic Novel",1,1988-01-01,"English","Boleslav William Felix Robert Bill Sienkiewicz","Boleslav William Felix Robert Bill","Sienkiewicz",1,"USA","USA",NA,1958-05-03,"White",NA
+243,221,254,"Clumsy","Literary Fiction","Graphic Novel",3,2002-01-01,"English","Jeffrey Brown","Jeffrey","Brown",1,"USA","USA",NA,1975-07-01,"White",NA
+244,222,255,"La Perdida","Literary Fiction","Graphic Novel",6,2006-01-01,"English","Jessica Abel","Jessica","Abel",0,"USA","USA",NA,1969-01-01,"White",NA
+246,224,257,"We Are On Our Own","Memoir","Graphic Memoir",4,2006-05-16,"English","Miriam Katin","Miriam","Katin",0,"Hungary","Israel",NA,NA,"White",NA
+253,218,251,"Brooklyn Dreams","Coming of Age","Graphic Novel",3,2003-04-01,"English","Glenn Barr","Glenn","Barr",1,"USA","USA",NA,NA,"White",NA
+255,232,264,"Hark! A Vagrant","Humor","Humor",2,2011-01-01,"English","Kathryn Moira Beaton","Kathryn Moira","Beaton",0,"Canada","Canada",NA,1983-09-08,"White",NA
+256,233,265,"The Voyeurs","Memoir","Graphic Memoir",0,2012-08-01,"English","Gabrielle Bell","Gabrielle","Bell",1,"UK","USA",NA,1976-03-24,"White",NA
+257,234,266,"Anya's Ghost","Coming of Age","Graphic Novel",0,2011-06-07,"English","Vera Brosgol","Vera","Brosgol",0,"Russia","USA",NA,1984-08-01,"White",NA
+258,235,267,"Make Me a Woman","Memoir","Graphic Memoir",2,2010-09-28,"English","Vanessa Davis","Vanessa","Davis",0,"USA","USA",NA,1978-10-14,"White",NA
+260,237,268,"Tanpopo Vol. 1","Science Fiction","Graphic Fantasy",0,2012-05-01,"English","Camilla D'Errico","Camilla","D'Errico",0,"Canada","Canada",NA,1980-09-30,"White",NA
+262,239,270,"Special Exits","Memoir","Graphic Memoir",0,2010-09-01,"English","Joyce Farmer","Joyce","Farmer",0,"USA","USA",NA,1938-01-01,"White",NA
+263,240,271,"An Age of License: a Travelogue","Travel Writing","Non-Fiction",0,2014-09-22,"English","Lucy Knisley","Lucy","Knisley",0,"USA","USA",NA,1985-01-11,"White",NA
+264,76,197,"Need More Love: A Graphic Memoir","Memoir","Graphic Memoir",4,2007-02-01,"English","Aline Kominsky-Crumb","Aline","Kominsky-Crumb",0,"USA","USA",NA,1948-08-01,"White",NA
+265,238,269,"Tangles: A Story About Alzheimer's, My Mother, and Me","Memoir","Graphic Memoir",3,2010-09-10,"English","Sarah Leavitt","Sarah","Leavitt",0,NA,"Canada",NA,NA,"White",NA
+267,241,272,"Patsy Walker, A.K.A. Hellcat! Vol. 1: Hooked On A Feline","Superhero","Graphic Novel",0,2016-05-31,"English","Brittney Williams","Brittney","Williams",0,NA,NA,NA,NA,"African American",NA
+270,243,273,"Moon Girl and Devil Dinosaur, Vol. 1: BFF","Fantasy","Graphic Fantasy",0,2016-07-05,"English","Natacha Bustos","Natacha","Bustos",0,"Spain",NA,NA,1981-01-01,"Unknown",NA
+272,244,274,"Leaving Megalopolis","Horror","Graphic Fantasy",0,2013-01-01,"English","Jim Calafiore","Jim","Calafiore",1,"USA","USA",NA,NA,"Unknown",NA
+278,245,275,"Omega: The Unknown","Superhero","Graphic Novel",7,2006-01-01,"English","Jim Mooney","Jim","Mooney",1,"USA","USA",2008-03-30,2019-08-13,"Native American",NA
+279,245,276,"Omega: The Unknown","Superhero","Graphic Novel",7,2006-01-01,"English","Lee Elias","Lee","Elias",1,"UK","USA",1998-04-08,2020-05-21,"White",NA
+280,245,277,"Omega: The Unknown","Superhero","Graphic Novel",7,2006-01-01,"English","Herb Trimpe","Herb","Trimpe",1,"USA","USA",2015-04-13,1939-05-26,"White",NA
+281,247,278,"When David Lost His Voice","Literary Fiction","Graphic Novel",0,2012-01-01,"English","Judith Vanistendael","Judith","Vanistendael",0,"Belgium","Belgium",NA,1974-01-01,"White",NA
+284,246,281,"Becoming Unbecoming","Crime","Graphic Novel",0,2015-09-30,"English","Una Una","Una","Una",0,"UK","UK",NA,NA,"White",NA
+287,249,285,"New Spring","Fantasy","Graphic Fantasy",0,2011-01-01,"English","Harvey M. Tolibao","Harvey M.","Tolibao",1,"Philippines","Philippines",NA,NA,"Asian",NA
+290,250,286,"The Inhumans: By Right of Birth","Superhero","Graphic Novel",3,2013-01-01,"English","Bret Blevins","Bret","Blevins",1,"USA","USA",NA,1960-08-13,"White",NA
+291,250,287,"The Inhumans: By Right of Birth","Superhero","Graphic Novel",3,2013-01-01,"English","Richard Howell","Richard","Howell",1,"USA","USA",NA,1955-11-16,"White",NA
+292,251,288,"Greenberg the Vampire","Horror","Graphic Fantasy",0,1986-01-01,"English","Steve Leialoha","Steve","Leialoha",1,"USA","USA",NA,1952-12-27,"White",NA
+293,251,289,"Greenberg the Vampire","Horror","Graphic Fantasy",0,1986-01-01,"English","Mark Badger","Mark","Badger",1,"USA","USA",NA,NA,"White",NA
+296,252,290,"The Picture of Dorian Gray: A Graphic Novel","Literary Fiction","Graphic Novel",0,2008-09-01,"English","I.N.J. Culbard","I.N.J.","Culbard",1,"UK","UK",NA,NA,"White",NA
+299,253,291,"Prince of Persia: The Graphic Novel","Action/Adventure","Graphic Novel",0,2008-09-02,"English","LeUyen Pham","LeUyen","Pham",0,"Vietnam","USA",NA,NA,"Asian",NA
+300,253,292,"Prince of Persia: The Graphic Novel","Action/Adventure","Graphic Novel",0,2008-09-02,"English","Alex Puvilland","Alex","Puvilland",1,"France","USA",NA,NA,"White",NA
+301,254,293,"A Sailor's Story","Action/Adventure","Graphic Novel",0,1987-08-01,"English","Sam Glanzman","Sam","Glanzman",1,"USA","USA",2017-07-12,2024-12-05,"White",NA
+303,255,294,"A Game of Thrones: The Graphic Novel Vol.1","Fantasy","Graphic Fantasy",1,2012-03-27,"English","Tommy Patterson","Tommy","Patterson",1,"USA","USA",NA,NA,"White",NA
+305,34,297,"City of Glass: The Graphic Novel","Mystery","Graphic Fantasy",7,1994-01-01,"English","Paul Karasik","Paul","Karasik",1,"USA","USA",NA,1956-01-01,"White",NA
+306,258,298,"The Cartoon History of the Universe III: From the Rise of Arabia to the Renaissance","Educational","Non-Fiction",1,2002-10-21,"English","Larry Gonick","Larry","Gonick",1,"USA","USA",NA,1946-08-24,"White",NA
+307,260,300,"Stray Bullets, Vol.1: Innocence of Nihilism","Crime","Graphic Novel",1,2005-04-06,"English","David Lapham","David","Lapham",1,"USA","USA",NA,1970-01-01,"White",NA
+310,264,304,"Nimona","Fantasy","Graphic Fantasy",0,2015-05-12,"English","Noelle Stevenson","Noelle","Stevenson",0,"USA","USA",NA,1991-12-31,"White",NA
+311,265,305,"Demon, Vol.1","Fiction","Graphic Novel",8,2016-10-13,"English","Jason Shiga","Jason","Shiga",1,"USA","USA",NA,1976-01-01,"Asian",NA
+315,271,312,"My Favorite Thing Is Monsters","Crime","Graphic Novel",0,2017-02-15,"English","Emil Ferris","Emil","Ferris",0,"USA","USA",NA,1962-01-01,"White",NA

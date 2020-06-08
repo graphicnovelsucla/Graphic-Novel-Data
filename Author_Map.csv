@@ -1,0 +1,167 @@
+AuthorID,Name,GenderID,Female,Male,CountryOfOriginID,CountryOfResidence,DateOfDeath,DateOfBirth,Race,PenName
+0,David Wojnarowicz,Male,0,1,USA,USA,7/22/92,9/14/54,White,NA
+1,Will Eisner,Male,0,1,USA,USA,1/3/05,3/6/17,White,NA
+3,Alan Moore,Male,0,1,UK,UK,NA,11/18/53,White,NA
+4,Jim Henson,Male,0,1,USA,USA,5/16/90,9/24/36,White,NA
+5,Jerry Juhl,Male,0,1,USA,USA,9/26/05,7/27/38,White,NA
+6,Alex Ross,Male,0,1,USA,USA,NA,1/22/70,White,NA
+7,Jim Krueger,Male,0,1,USA,USA,NA,NA,White,NA
+8,Brian Michael Bendis,Male,0,1,USA,USA,NA,8/18/67,White,NA
+10,Gene Luen Yang,Male,0,1,USA,USA,NA,8/9/73,Asian,NA
+11,Harvey Pekar,Male,0,1,USA,USA,7/12/10,10/8/39,White,NA
+12,Alissa Torres,Female,1,0,NA,USA,NA,NA,Unknown,NA
+13,David Mazzucchelli,Male,0,1,USA,USA,NA,9/21/60,Unknown,NA
+14,Mike Mignola,Male,0,1,USA,USA,NA,9/16/60,White,NA
+21,Jeph Loeb,Male,0,1,USA,USA,NA,1/29/58,White,NA
+22,Frank Miller,Male,0,1,USA,USA,NA,1/27/57,White,NA
+23,Evan Dorkin,Male,0,1,USA,USA,NA,4/20/65,White,NA
+24,Stephen L. Stern,Male,0,1,USA,USA,NA,NA,White,NA
+25,Adrian Tomine,Male,0,1,USA,USA,NA,5/13/74,Asian,NA
+26,Dave Gibbons,Male,0,1,UK,UK,NA,4/14/49,White,NA
+30,Alison Bechdel,Female,1,0,USA,USA,NA,9/10/60,White,NA
+31,Apostolos Doxiadis,Male,0,1,Australia,Greece,NA,6/6/53,White,NA
+32,Christos Papadimitriou,Male,0,1,Greece,USA,NA,8/16/49,White,NA
+33,Art Spiegelman,Male,0,1,Sweden,USA,NA,2/15/48,White,NA
+34,Ben Katchor,Male,0,1,USA,USA,NA,1/1/51,White,NA
+35,Bill Willingham,Male,0,1,USA,USA,NA,1/1/56,White,NA
+36,Brandon Graham,Male,0,1,USA,USA,NA,1/1/76,White,NA
+37,Brian Fies,Male,0,1,NA,,NA,NA,Unknown,NA
+38,Bryan Talbot,Male,0,1,UK,UK,NA,2/24/52,White,NA
+39,Carla Speed McNeill,Female,1,0,USA,USA,NA,NA,White,NA
+40,Charles Burns,Male,0,1,USA,USA,NA,9/27/55,White,NA
+41,Chester Brown,Male,0,1,Canada,Canada,NA,5/16/60,White,NA
+42,Chris Ware,Male,0,1,USA,USA,NA,12/28/67,White,NA
+43,Craig Thompson,Male,0,1,USA,USA,NA,9/21/75,White,NA
+44,Cullen Bunn,Male,0,1,USA,USA,NA,1/1/71,White,NA
+45,Daniel Clowes,Male,0,1,USA,USA,NA,4/14/61,White,NA
+46,Darwyn Cooke,Male,0,1,Canada,Canada,NA,1/1/62,White,NA
+47,Dave McKean,Male,0,1,UK,UK,NA,12/29/63,White,NA
+48,Dave Stevens,Male,0,1,USA,USA,3/11/08,7/29/55,White,NA
+50,Derek Kirk Kim,Male,0,1,South Korea,USA,NA,1/1/74,Asian,NA
+52,Dwayne McDuffle,Male,0,1,NA,USA,2/21/11,2/20/62,African American,NA
+53,Dylan Horrocks,Male,0,1,New Zealand,New Zealand,NA,1/1/66,White,NA
+55,Edie Fake,Male,0,1,USA,USA,NA,1/1/80,White,NA
+56,Ellen Forney,Female,1,0,USA,USA,NA,3/8/68,White,NA
+61,G. Willow Wilson,Female,1,0,USA,USA,NA,8/31/82,White,NA
+63,Gabriel Ba,Male,0,1,Brazil,Brazil,NA,6/5/76,Hispanic Origin,NA
+64,Garth Ennis,Male,0,1,UK,UK,NA,1/16/70,White,NA
+67,George R. R. Martin,Male,0,1,USA,USA,NA,9/20/48,White,NA
+68,Ben Avery,Male,0,1,USA,USA,NA,NA,White,NA
+69,Gilbert Hernandez,Male,0,1,USA,USA,NA,2/1/57,Other Race,NA
+71,Joyce Brabner,Female,1,0,USA,USA,NA,3/1/52,White,NA
+72,Howard Cruse,Male,0,1,USA,USA,NA,5/2/44,White,NA
+73,Jason Lutes,Male,0,1,USA,USA,NA,12/7/67,White,NA
+75,Jeff Lemire,Male,0,1,Canada,Canada,NA,3/21/76,White,NA
+76,Jeff Smith,Male,0,1,USA,USA,NA,2/27/60,White,NA
+78,Jim Starlin,Male,0,1,USA,USA,NA,10/9/49,White,NA
+79,Joe Kubert,Male,0,1,Poland,USA,8/12/12,9/18/26,White,NA
+80,Joe Sacco,Male,0,1,Malta,USA,NA,10/2/60,White,NA
+81,John Lewis,Male,0,1,USA,USA,NA,2/21/40,African American,NA
+82,Judd Winick,Male,0,1,USA,USA,NA,2/12/70,White,NA
+84,Kieron Gillen,Male,0,1,UK,UK,NA,1/1/75,White,NA
+85,Kim Deitch,Male,0,1,USA,,NA,1/1/44,White,NA
+86,Kyle Baker,Male,0,1,USA,USA,NA,1/1/65,African American,NA
+87,Lance Tooks,Male,0,1,USA,USA,NA,NA,African American,NA
+88,Leela Corman,Female,1,0,NA,USA,NA,NA,Unknown,NA
+89,Lila Quintero Weaver,Female,1,0,Argentina,USA,NA,1/1/55,Hispanic Origin,NA
+90,Linda Medley,Female,1,0,USA,USA,NA,5/17/64,White,NA
+95,Lynda Barry,Female,1,0,USA,USA,NA,1/2/56,Other Race,NA
+96,Mariko Tamaki,Female,1,0,Canada,Canada,NA,NA,Other Race,NA
+97,Marisa Acocella Marchetto,Female,1,0,USA,USA,NA,1/1/62,White,NA
+99,Mark Kalesniko,Male,0,1,Canada,USA,NA,NA,White,NA
+100,Mark Millar,Male,0,1,UK,UK,NA,12/24/69,White,NA
+101,Matt Fraction,Male,0,1,USA,USA,NA,12/1/75,White,NA
+103,Michael Nicoll Yahgulanaas,Male,0,1,Canada,Canada,NA,1/1/54,Native American,NA
+104,Michel Rabagliati,Male,0,1,Canada,Canada,NA,1/1/61,White,NA
+105,Mike Carey,Male,0,1,UK,UK,NA,1/1/59,White,NA
+107,Nate Powell,Male,0,1,USA,USA,NA,1/1/78,White,NA
+108,Neil Gaiman,Male,0,1,UK,USA,NA,11/10/60,White,NA
+115,Paul Auster,Male,0,1,USA,USA,NA,2/3/47,White,NA
+116,Paul Hornschemeier,Male,0,1,USA,USA,NA,10/27/77,White,NA
+117,Posy Simmonds,Female,1,0,UK,UK,NA,8/9/45,White,NA
+119,Rick Geary,Male,0,1,USA,USA,NA,2/25/46,White,NA
+120,Robert Crumb,Male,0,1,USA,USA,NA,8/30/43,White,NA
+121,Roz Chast,Female,1,0,USA,USA,NA,11/26/54,White,NA
+122,Rutu Modan,Female,1,0,Israel,Israel,NA,1/1/66,White,NA
+123,Sarah Glidden,Female,1,0,USA,USA,NA,6/16/80,White,NA
+124,Sarnath Banerjee,Male,0,1,India,India,NA,1/1/72,Asian,NA
+125,Gregory Gallant,Male,0,1,NA,USA,NA,9/16/62,White,Seth
+126,Shaun Tan,Male,0,1,Australia,Australia,NA,1/1/74,White,NA
+128,Stephen Murphy,Male,0,1,USA,USA,NA,11/3/80,Unknown,NA
+129,Steven T. Seagle,Male,0,1,USA,USA,NA,NA,White,NA
+130,Sydney Padua,Female,1,0,NA,,NA,NA,Unknown,NA
+134,Keith Ian Giffen,Male,0,1,USA,,NA,11/30/52,White,NA
+135,David Victor Sim,Male,0,1,Canada,Canada,NA,11/30/52,White,NA
+136,James Vance,Male,0,1,USA,,6/5/17,3/2/53,Unknown,NA
+137,Jules Ralph Feiffer,Male,0,1,USA,USA,NA,1/26/29,White,NA
+138,Paul Pope,Male,0,1,USA,USA,NA,9/26/70,White,NA
+140,Peter Gross,Male,0,1,USA,USA,NA,1/1/58,White,NA
+160,Jillian Tamaki,Female,1,0,Canada,USA,NA,NA,Other Race,NA
+161,Chip Zdarsky,Male,0,1,Canada,Canada,NA,12/21/75,White,NA
+165,Andrew Aydin,Male,0,1,USA,USA,NA,8/25/83,White,NA
+170,John Marc DeMatteis,Male,0,1,USA,USA,NA,12/15/53,White,NA
+179,Fabio Moon,Male,0,1,Brazil,Brazil,NA,6/5/76,Hispanic Origin,NA
+184,Jill Thompson,Female,1,0,USA,USA,NA,11/20/66,White,NA
+207,Peter Kuper,Male,0,1,USA,USA,NA,9/22/58,White,NA
+209,Phoebe Louise Adams Gloeckner,Female,1,0,USA,USA,NA,12/22/60,White,NA
+210,David Small,Male,0,1,USA,USA,NA,2/12/45,White,NA
+211,Darryl Cunningham,Male,0,1,UK,UK,NA,1/1/60,White,NA
+213,Malik Sajad,Male,0,1,India,India,NA,1/1/87,Asian,NA
+214,James Sturm,Male,0,1,USA,USA,NA,1/1/65,White,NA
+215,Alex Robinson,Male,0,1,USA,USA,NA,8/8/69,White,NA
+216,Brian K. Vaughan,Male,0,1,USA,USA,NA,7/17/76,White,NA
+218,Vivek J. Tiwary,Male,0,1,USA,USA,NA,5/15/73,Asian,NA
+221,Joseph Kelly,Male,0,1,USA,Japan,NA,9/24/72,Other Race,NA
+223,Scott McCloud,Male,0,1,USA,USA,NA,6/10/60,White,NA
+224,Rob Davis,Male,0,1,UK,UK,NA,NA,White,NA
+225,Isabel Greenberg,Female,1,0,UK,UK,NA,NA,White,NA
+226,Glyn Dillon,Male,0,1,UK,UK,NA,1/1/71,White,NA
+230,Nick Drnaso,Male,0,1,USA,USA,NA,1/1/89,White,NA
+231,Richard McGuire,Male,0,1,USA,UK,NA,1/1/57,White,NA
+234,Meags Fitzgerald,Female,1,0,Canada,Canada,NA,NA,White,NA
+235,Joshua W. Cotter,Male,0,1,NA,,NA,NA,White,NA
+236,Liz Suburbia,Female,1,0,USA,USA,NA,NA,White,NA
+237,Sophie Goldstein,Female,1,0,USA,USA,NA,NA,White,NA
+238,Anders Nilsen,Male,0,1,USA,USA,NA,1/1/73,White,NA
+239,Debbie Drechsler,Female,1,0,USA,USA,NA,1/1/53,White,NA
+240,John Wagner,Male,0,1,USA,USA,NA,1/1/49,White,NA
+242,Boleslav William Felix Robert Bill Sienkiewicz,Male,0,1,USA,USA,NA,5/3/58,White,NA
+243,Jeffrey Brown,Male,0,1,USA,USA,NA,7/1/75,White,NA
+244,Jessica Abel,Female,1,0,USA,USA,NA,1/1/69,White,NA
+246,Miriam Katin,Female,1,0,Hungary,Israel,NA,NA,White,NA
+255,Kathryn Moira Beaton,Female,1,0,Canada,Canada,NA,9/8/83,White,NA
+256,Gabrielle Bell,Male,0,1,UK,USA,NA,3/24/76,White,NA
+257,Vera Brosgol,Female,1,0,Russia,USA,NA,8/1/84,White,NA
+258,Vanessa Davis,Female,1,0,USA,USA,NA,10/14/78,White,NA
+260,Camilla D'Errico,Female,1,0,Canada,Canada,NA,9/30/80,White,NA
+262,Joyce Farmer,Female,1,0,USA,USA,NA,1/1/38,White,NA
+263,Lucy Knisley,Female,1,0,USA,USA,NA,1/11/85,White,NA
+264,Aline Kominsky-Crumb,Female,1,0,USA,USA,NA,8/1/48,White,NA
+265,Sarah Leavitt,Female,1,0,NA,Canada,NA,NA,White,NA
+266,Kate Leth,Female,1,0,Canada,USA,NA,9/29/88,White,NA
+268,Amy Reeder,Female,1,0,USA,USA,NA,8/25/80,White,NA
+269,Brandon Montclare,Male,0,1,NA,USA,NA,NA,White,NA
+271,Gail Simone,Female,1,0,USA,USA,NA,7/29/74,White,NA
+273,Stephen Ross Gerber,Male,0,1,USA,USA,2/10/08,9/20/74,White,NA
+274,Mary Skrenes,Female,1,0,NA,,NA,NA,White,NA
+275,Scott Edelman,Male,0,1,USA,USA,NA,1/1/55,White,NA
+276,Roger Stern,Male,0,1,USA,USA,NA,9/17/50,White,NA
+277,Steven Grant,Male,0,1,USA,USA,NA,10/22/53,White,NA
+281,Judith Vanistendael,Female,1,0,Belgium,Belgium,NA,1/1/74,White,NA
+284,Una Una,Female,1,0,UK,UK,NA,NA,White,NA
+285,James Oliver Rigney Jr. Robert Jordan,Male,0,1,USA,USA,9/16/07,10/17/48,White,NA
+286,Charles Dixon Chuck,Male,0,1,USA,USA,NA,3/14/54,White,NA
+288,Ann Annie Nocenti,Female,1,0,USA,USA,NA,1/17/57,White,NA
+289,Lou Mougin,Male,0,1,USA,USA,NA,1/1/54,White,NA
+295,Ian Edginton,Male,0,1,UK,UK,NA,NA,White,NA
+297,Jordan Mechner,Male,0,1,USA,USA,NA,6/4/64,White,NA
+298,A. B. Sina,Female,1,0,NA,,NA,NA,Unknown,NA
+301,Sam Glanzman,Male,0,1,USA,USA,7/12/17,12/5/24,White,NA
+304,Daniel James Abraham,Male,0,1,USA,USA,NA,11/14/69,White,NA
+306,Larry Gonick,Male,0,1,USA,USA,NA,8/24/46,White,NA
+307,David Lapham,Male,0,1,USA,USA,NA,1/1/70,White,NA
+308,Donald Edwin Westlake (Richard Stark),Male,0,1,USA,USA,12/31/08,7/12/33,White,NA
+309,Kurt Busiek,Male,0,1,USA,USA,NA,9/16/60,White,NA
+310,Noelle Stevenson,Female,1,0,USA,USA,NA,12/31/91,White,NA
+311,Jason Shiga,Male,0,1,USA,USA,NA,1/1/76,Asian,NA
+315,Emil Ferris,Female,1,0,USA,USA,NA,1/1/62,White,NA
